@@ -1,0 +1,24 @@
+{
+  "name": "1streactproject",
+  "version": "1.0.0",
+  "description": "1stReactProject",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiladBe/1stReactProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiladBe/1stReactProject/issues"
+  },
+  "homepage": "https://github.com/GiladBe/1stReactProject#readme"
+}
